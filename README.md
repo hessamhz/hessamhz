@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hessamhz&label=Profile%20views&color=0e75b6&style=flat" alt="hessamhz" /> </p>
 
-I am currently studying for my MSc at Politecnico di Milano. I completed my Bachelor's degree at Isfahan University of Technology (IUT). I am currently eager to delve into the expansive realm of open source and hopefully make meaningful contributions.
+I am currently studying for my MSc at [Politecnico di Milano](https://www.polimi.it/), and working as Technical Lead at [Meraviglia Lab](https://meraviglialab.com/). I completed my Bachelor's degree at Isfahan University of Technology (IUT). I am currently eager to delve into the expansive realm of open source and hopefully make meaningful contributions.
 In addition to my academic background, I have gained five years of experience working as a software engineer, where I have developed various platforms. Currently, I am actively involved in working on a web3-based platform.
 
 - 📄 [Link](https://github.com/hessamhz/polimi-courses) to my MSc. university projects & homework in Politecnico di Milano 
 - 📄 [Link](https://github.com/hessamhz/iut-courses) to my BSc. university projects & homework in Isfahan University of Technology
-
-- 🔭 Small [project](https://github.com/hessamhz/django-word-counter) to showcase my coding style in Django
 
 - 📫 Want to reach me? **hessam.hashemizadeh@mail.polimi.it**
 
